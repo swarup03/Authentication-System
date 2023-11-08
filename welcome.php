@@ -41,8 +41,8 @@
             require "navbar.php";
         ?>
         <div class="container">
-            <img src="hb.gif" class="rounded mx-auto d-block" alt="Chala ja bsdk">
-            <h3>Chala ja BSDK ,<?php echo $_SESSION['uname'] ?> --> <a href="logout.php">click me</a></h3>
+            <img src="hb.gif" class="rounded mx-auto d-block" alt="Hello Brother">
+            <h3>Click Hear ,<?php echo $_SESSION['uname'] ?> --> <a href="logout.php">click me</a></h3>
         </div>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
     </body>
